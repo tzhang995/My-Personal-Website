@@ -54,6 +54,13 @@ div.myListTitle{
 	font-weight: 700;
 }
 
+div.myListItalics{
+	font-style: italic;
+	color: #4C4635;
+	font-size: 18px;
+	font-weight: 600;
+}
+
 div.myListTime{
 	color: #4C4635;
 	font-size: 18px;

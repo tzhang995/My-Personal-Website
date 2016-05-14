@@ -18,14 +18,31 @@
 							<div class="myListTitle">
 								University of Waterloo
 							</div>
+							<div class="myListItalics">
+								<p>Candidate for Bachelor of Computer Science</p>
+								<p>Honours Computer Science (Co-op)</p>
+							</div>
 							<div class="myListTime">
-								January 2016 - May 2016
+								Fall 2014 - Summer 2019
 							</div>
 							<div class="myListSummary">
+								Software Engineering Option
 							</div>
 						</div>
-						<div class="myListLogo col-sm-3 col-md-3 col-lg-3">
-							<img src="img/Pivotal_TealOnWhite.png">
+					</div>
+				</div>
+				<div class="myListItem container-fluid">
+					<div class="row">
+						<div class="myListText myListText col-sm-9 col-md-9 col-lg-9">
+							<div class="myListTitle">
+								May - August 2016, 2B
+							</div>
+							<div class="myListSummary">
+								<p>CS 241 — Foundations of Sequential Programs</p>
+								<p>CS 245 — Logic and Computation</p>
+								<p>STAT 231 — Statistics</p>
+								<p>MATH 136 — Linear Algebra 1 for Honours Mathematics</p>
+							</div>
 						</div>
 					</div>
 				</div>
