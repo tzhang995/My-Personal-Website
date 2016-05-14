@@ -1,0 +1,126 @@
+body{
+	background-color: #0EBFE9;
+	font-family: 'Roboto', sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+li{
+	text-rendering: optimizeLegibility;
+}
+
+ul.skills li{
+	display: block;
+	text-align: center;
+	background-color: #E0E4CC;
+}
+ul.header-tabs li{
+	font-size: 18px;
+	vertical-align: middle;
+	border-bottom: 2px solid #4C4635;
+}
+
+a.highlight{
+	color: #F38630;
+}
+
+a.highlight:hover{
+	color: #FA6900;
+	text-decoration: none;
+}
+
+a.highlight:active{
+	text-decoration: none;
+}
+
+li.active a.highlight{
+	color: #FA6900;
+}
+li.active.header-tab{
+	border-bottom: 2px solid #FA6900;
+}
+li.header-tab:hover{
+	border-bottom: 2px solid #FA6900;
+}
+
+header{
+	background-color: #4C4635;
+	font-weight: bold;
+}
+
+div.myListTitle{
+	color: #0EBFE9;
+	font-size: 25px;
+	font-weight: 700;
+}
+
+div.myListTime{
+	color: #4C4635;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+
+.myList > div.myListItem{
+	background-color: #E0E4CC;
+	border-radius: 3px;
+	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 18px;
+	width:98%;
+	clear:both;
+	overflow: auto;
+}
+
+.myList > div.myListItem > div.myListSummary > ul{
+	list-style-type: circle;
+}
+
+div.myList > div.myListItem > div.myListLogo{
+	float:right;
+	max-height: 100px;
+	max-width: 200px;
+}
+div.myList > div.myListItem > div.myListText{
+	float:left;
+
+}
+
+ul.things-used > li {
+	background-color: #0EBFE9;
+	display: inline-flex;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 3px;
+	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+	margin-right: 10px;
+	font-size: 18px;
+}
+
+ul.things-used{
+	padding-left: 0px;
+	color:#E0E4CC;
+}
+
+div.outside-links{
+	display: inline-flex;
+}
+
+div.outside-links > h4{
+	margin: auto;
+	margin-right: 10px;
+	margin-bottom: 3px;
+}
+
+p.title{
+	color: #4C4635;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+div.profile{
+	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+	background: #0EBFE9 none repeat scroll 0% 0%;
+}
