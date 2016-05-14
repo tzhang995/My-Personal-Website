@@ -78,10 +78,10 @@ div.myListTime{
 	list-style-type: circle;
 }
 
-div.myList > div.myListItem > div.myListLogo{
+div.myList > div.myListItem > div.myListLogo > img{
 	float:right;
-	max-height: 100px;
-	max-width: 200px;
+	width: 100px;
+	height: auto;
 }
 div.myList > div.myListItem > div.myListText{
 	float:left;
