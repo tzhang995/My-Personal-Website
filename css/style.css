@@ -78,7 +78,7 @@ div.myListTime{
 	list-style-type: circle;
 }
 
-div.myList > div.myListItem > div.myListLogo > img{
+div.myList > div.myListItem > div.row >div.myListLogo > img{
 	float:right;
 	width: 100px;
 	height: auto;
