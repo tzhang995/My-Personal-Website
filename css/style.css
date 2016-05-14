@@ -82,8 +82,6 @@ div.myList > div.myListItem > div.row >div.myListLogo > img{
 	float:right;
 	width: 100px;
 	height: auto;
-	vertical-align: middle;
-	display: inline-block;
 }
 div.myList > div.myListItem > div.myListText{
 	float:left;
