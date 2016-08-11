@@ -18,6 +18,9 @@
 				<?php if($currentPage == "education") echo "active"; ?>">
 				<a href="./education.php" class="highlight">Education</a>
 			</li>
+			<li id="Blog" class="header-tab
+				<?php if($currentPage == "Blog") echo "active"; ?>">
+				<a href="./blog.php" class="highlight">Blog</a>
 		</ul>
 	</div>
 </header>
