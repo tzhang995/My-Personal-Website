@@ -20,13 +20,13 @@
 							</div>
 							<div class="myListItalics">
 								<p>Candidate for Bachelor of Computer Science</p>
-								<p>Honours Computer Science (Co-op)</p>
 							</div>
 							<div class="myListTime">
 								Fall 2014 - Summer 2019
 							</div>
 							<div class="myListSummary">
 								Software Engineering Option
+								<br>Honours Computer Science (Co-op)
 							</div>
 						</div>
 					</div>

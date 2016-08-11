@@ -15,7 +15,7 @@
 					</div>
 					<div class="profile-text">
 						<p class="text-center">
-							Hello, I am an aspiring Software Engineer / Entrepreneur from Toronto.
+							Hello, I am an aspiring Software Engineer / Entrepreneur from Toronto. I also smile a lot.
 						</p>
 					</div>
 				</div>
