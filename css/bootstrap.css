@@ -5243,7 +5243,7 @@ a.thumbnail.active {
   list-style: none;
 }
 .list-group {
-  padding-left: 0;
+  padding-left: 15px;
   margin-bottom: 20px;
 }
 .list-group-item {
