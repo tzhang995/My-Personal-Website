@@ -26,7 +26,7 @@
 				<div class="list-desc">
 					<p>Lol this will just be a list of lists that I want to in the future mostly cause I tend to forget so might as well write it down.</p>
 				</div>
-				<div class="list-group container-fluid">
+				<div class="list-group">
 					<a href="#" class="list-group-item">N Companies I would LOVE to work for</a>
 					<a href="#" class="list-group-item">N Things I would like to do in life</a>
 					<a href="#" class="list-group-item">N Programming languages that I like</a>
