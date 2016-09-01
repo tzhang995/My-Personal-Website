@@ -9,14 +9,14 @@
 	<body>
 		<?php include("header.php");?>
 		<!--Body paragraph-->
-		<div id="inner" class="container-fluid">
+		<div id="inner" class="container-fluid body-desc">
 			<p class="text-center">
-				This page is more or less just updating myself, create and access my side projects and self learning. Honestly, it is to learn JavaScript and the many, many, many (sigh) libraries that it has. Feel free to roam around.
+				Welcome to my blog... Well this isn't actually a blog but actually a collection of random things that I'm doing during my off time. Think of it like "Tony's random things". lol
 			</p>
 		</div>
 		 <div class="list-group container-fluid">
-		  <a href="#" class="list-group-item">Algorithms</a>
 		  <a href="./nThings.php" class="list-group-item">N Things</a>
+		  <a href="#" class="list-group-item">Algorithms</a>
 		  <a href="#" class="list-group-item">Other Projects</a>
 		</div>
 	</body>
