@@ -5276,7 +5276,7 @@ a.list-group-item:focus,
 button.list-group-item:focus {
   color: #555;
   text-decoration: none;
-  background-color: #f5f5f5;
+  background-color: #E0E4CC;
 }
 button.list-group-item {
   width: 100%;
