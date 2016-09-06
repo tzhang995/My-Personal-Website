@@ -29,14 +29,14 @@
 							<div class="myListSummary">
 								<p>Lol this will just be a list of lists that I want to in the future mostly cause I tend to forget so might as well write it down.</p>
 							</div>
-							<div class="list-group">
-								<a href="#" class="list-group-item">N Reasons I became a programmer</a>
-								<a href="#" class="list-group-item">N Companies I would LOVE to work for</a>
-								<a href="#" class="list-group-item">N Things I would like to do in life</a>
-								<a href="#" class="list-group-item">N Programming languages that I like</a>
-								<a href="#" class="list-group-item">N Quality Mangas</a>
-								<a href="#" class="list-group-item">N Best karaoke songs</a>
-								<a href="#" class="list-group-item">N Countries I would live to visit</a>
+							<div class="myListList">
+								<a href="#" class="myListListItem">N Reasons I became a programmer</a>
+								<a href="#" class="myListListItem">N Companies I would LOVE to work for</a>
+								<a href="#" class="myListListItem">N Things I would like to do in life</a>
+								<a href="#" class="myListListItem">N Programming languages that I like</a>
+								<a href="#" class="myListListItem">N Quality Mangas</a>
+								<a href="#" class="myListListItem">N Best karaoke songs</a>
+								<a href="#" class="myListListItem">N Countries I would live to visit</a>
 							</div>
 						</div>
 					</div>
