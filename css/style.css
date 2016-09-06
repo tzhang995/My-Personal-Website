@@ -133,3 +133,14 @@ div.profile{
 	background-color: #0EBFE9;
 }
 
+
+.myListList>ul{
+	padding-left:0px;
+}
+
+a.myListListItem:link,
+a.myListListItem:visited,
+a.myListListItem:hover,
+a.myListListItem:active{
+	color:#333;
+}
