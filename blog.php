@@ -9,12 +9,20 @@
 	<body>
 		<?php include("header.php");?>
 		<!--Body paragraph-->
-		<div id="inner" class="container-fluid body-desc">
-			<p class="text-center">
-				Welcome to my blog... Well this isn't actually a blog but actually a collection of random things that I'm doing during my off time. Think of it like "Tony's random things". lol
-			</p>
+		<div id="inner" class="container-fluid">
+			<div class="container-fluid main-head">
+				<div class="body-title">
+					<p class="text-center">Blog (not really)</p>
+				</div>
+
+				<div class="body-desc">
+					<p class="text-center">
+					Welcome to my blog... Well this isn't actually a blog but actually a collection of random things that I'm doing during my off time. Think of it like "Tony's random things". lol
+					</p>
+				</div>
+			</div>
 		</div>
-		 <div class="list-group container-fluid">
+		<div class="list-group container-fluid">
 		  <a href="./nThings.php" class="list-group-item filler">N Things</a>
 		  <a href="#" class="list-group-item filler">Algorithms</a>
 		  <a href="#" class="list-group-item filler">Other Projects</a>
