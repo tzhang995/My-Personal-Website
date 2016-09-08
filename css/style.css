@@ -154,3 +154,16 @@ a.myListListItem:active{
 div.myListDesc{
 	font-size: 18px;
 }
+
+div.body-title{
+	font-size: 25px;
+}
+
+div.body-desc{
+	font-size: 18px;
+}
+
+div.main-head{
+	color: #4C4635;
+}
+

@@ -11,7 +11,7 @@
 		<div class="container-fluid">
 			<div class="container-fluid main-head">
 				<div class="body-title">
-					<p class="text-center title">N Things</p>
+					<p class="text-center">N Things</p>
 				</div>
 
 				<div class="body-desc">
