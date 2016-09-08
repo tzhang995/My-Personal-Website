@@ -11,7 +11,7 @@
 		<div class="container-fluid">
 			<div class="container-fluid main-head">
 				<div class="body-title">
-					<p class="text-center">N Things</p>
+					<p class="text-center title">N Things</p>
 				</div>
 
 				<div class="body-desc">
@@ -26,7 +26,7 @@
 							<div class="myListTitle">
 								<p>N Things of N Lists</p>
 							</div>
-							<div class="myListSummary">
+							<div class="myListDesc">
 								<p>Lol this will just be a list of lists that I want to in the future mostly cause I tend to forget so might as well write it down.</p>
 							</div>
 							<div class="myListList">
