@@ -143,4 +143,14 @@ a.myListListItem:visited,
 a.myListListItem:hover,
 a.myListListItem:active{
 	color:#333;
+	font-size:14px;
+}
+
+.filler{
+	font-family: "Roboto",sans-serif;
+	font-size: 14px;
+}
+
+div.myListDesc{
+	font-size: 14px;
 }

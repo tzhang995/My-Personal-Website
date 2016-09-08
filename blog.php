@@ -16,8 +16,8 @@
 		</div>
 		 <div class="list-group container-fluid">
 		  <a href="./nThings.php" class="list-group-item">N Things</a>
-		  <a href="#" class="list-group-item">Algorithms</a>
-		  <a href="#" class="list-group-item">Other Projects</a>
+		  <a href="#" class="list-group-item filler">Algorithms</a>
+		  <a href="#" class="list-group-item filler">Other Projects</a>
 		</div>
 	</body>
 	<?php include("script.php");?>
